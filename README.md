@@ -1,3 +1,5 @@
 # devops-assignment-1
 My first repository for DevOps Assignment 1: GitHub basics.
 # GitHub Fundamentals ## Student Information- Name: YOUR NAME- Course: DevOps- Assignment: 1 — GitHub Free Account Setup ## Purpose This repository was created to practise GitHub account setup, repository management, README documentation, commits, and branches. ## Tasks Completed- Created and verified a GitHub account.- Created a repository named `devops-assignment-1`.- Added a README and a sample file.- Recorded changes using commits.- Created a practice branch. ## What I Learned Write 3–5 sentences in your own words about Git, GitHub, repositories, commits, and branches. ## Tools Used- GitHub website- Web browser
+   ## Branch Practice
+   I created the assignment-notes branch to practise isolated changes.
